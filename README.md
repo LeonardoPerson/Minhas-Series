@@ -4,7 +4,6 @@ No diretório do projeto, você pode executar: yarn start<br/>
 O aplicativo será executado no modo de desenvolvimento. 
 
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
-A página será recarregada se você fizer edições. 
 
 ### yarn build
 
