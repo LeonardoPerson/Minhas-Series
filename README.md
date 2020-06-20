@@ -13,6 +13,8 @@ Minhas Séries - Exibe a página inicial;<br/>
 Séries - Exibe a lista de séries, com botões para cadastrar, remover e ver as informações detalhadas das séries;<br/>
 Gêneros: Exibe a lista de gêneros cadatrados, com botões para adicionar, remover e editar gêneros.<br/>
 
+<img src="/src/Image/home.png">
+
 
 
 
