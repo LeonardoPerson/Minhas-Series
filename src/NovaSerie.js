@@ -28,8 +28,8 @@ const NovoSerie = () => {
             <form>
                 <div className='form-group'>
                     <label htmlFor='name'>Nome</label>
-                    <input type='text' value={name} onChange={onChange} className='form-control' id='name' placeholder='Nome do Gênero'/>
-                    <button type="button" onClick={save} className="btn btn-primary">Salvar Série</button>
+                    <input type='text' value={name} onChange={onChange} className='form-control' id='name' placeholder='Nome da Série'/>
+                    <button type="button" onClick={save} className="btn btn-primary">Salvar</button>
                 </div>
             </form>
         </div>

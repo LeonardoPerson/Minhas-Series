@@ -7,9 +7,15 @@ import EditarGenero from './EditarGenero'
 import Series from './Series'
 import NovaSerie from './NovaSerie'
 import InfoSerie from './InfoSerie'
+import './Estilos.css'
 
 const Home = () => {
-  return  <h1>Home</h1>
+  return  (
+    <div>
+      <h1 className='faixaHome'>Home</h1>
+    </div>
+    )
+    
 }
 
 function App() {

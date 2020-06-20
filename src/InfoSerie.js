@@ -160,7 +160,7 @@ if(sucess){
                         </label>
                     </div>
 
-                    <button type='button' onClick={save} className='btn btn-primary'>Salvar Série</button>
+                    <button type='button' onClick={save} className='btn btn-primary'>Salvar</button>
                 </form>
             </div>
             }

@@ -1,0 +1,29 @@
+
+
+body {    
+    justify-content: center;    
+    background: url("./Image/universo.jpg");   
+    background-size: 100%; 
+    padding: 0 3%;
+  }
+
+  .faixaHome {
+      display: flex;
+      color: white;
+      justify-content: center;
+  }
+
+  .container {
+    font-weight: 500;
+    color: white;
+  }
+
+  .btn {
+      padding: 5%;
+  }
+
+
+
+
+
+

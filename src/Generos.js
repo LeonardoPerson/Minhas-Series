@@ -61,7 +61,7 @@ if(data.length === 0){
     return (
 
         <div className='container'>
-            <h1>Generos</h1>
+            <h1>Gêneros</h1>
             <Link to='/generos/novo' className='btn btn-primary'>Novo Gênero</Link>
             <table className='table table-dark'>
                 <thead>
