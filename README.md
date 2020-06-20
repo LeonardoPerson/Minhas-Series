@@ -1,6 +1,6 @@
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
-No diretório do projeto, você pode executar: yarn start-react<br/>
+No diretório do projeto, você pode executar: <b>yarn start-react</b><br/>
 Será preciso executar também, logo em seguida: yarn start-server<br/>
 O aplicativo será executado no modo de desenvolvimento.<br/>
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.<br/>
