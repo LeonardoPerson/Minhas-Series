@@ -1,5 +1,9 @@
 import React from 'react'
 import Header from './Header'
+import Rotas from './Rotas'
+import './Estilos.css'
+
+/*
 import Generos from './Generos'
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
 import NovoGenero from './NovoGenero'
@@ -7,8 +11,10 @@ import EditarGenero from './EditarGenero'
 import Series from './Series'
 import NovaSerie from './NovaSerie'
 import InfoSerie from './InfoSerie'
-import './Estilos.css'
+*/
 
+
+/*
 const Home = () => {
   return  (
     <div>
@@ -17,10 +23,15 @@ const Home = () => {
     )
     
 }
+*/
 
 function App() {
-  return (
-    <Router>
+  return (      
+    
+      <Rotas />
+      
+    
+    /*<Router>
       <div>
         <Header /> 
         <Switch>
@@ -33,7 +44,7 @@ function App() {
           <Route path='/series/:id' exact component={InfoSerie}/>        
         </Switch>        
       </div>
-    </Router>
+    </Router>*/
   )
 }
 
