@@ -8,7 +8,7 @@ O aplicativo será executado no modo de desenvolvimento.<br/>
 O projeto poderá ser visualizado no navegador pelo endereço: [http://localhost:3000](http://localhost:3000).<br/>
 
 O projeto Minhas Séries consiste em uma lista de controle de séries.<br/>
-A barra superior de opções mostra três opções:<br/>
+A barra superior de opções (imagem abaixo) mostra três opções:<br/>
 Minhas Séries - Exibe a página inicial;<br/>
 Séries - Exibe a lista de séries, com botões para cadastrar, remover e ver as informações detalhadas das séries;<br/>
 Gêneros: Exibe a lista de gêneros cadatrados, com botões para adicionar, remover e editar gêneros.<br/>
