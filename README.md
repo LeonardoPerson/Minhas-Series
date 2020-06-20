@@ -1,9 +1,10 @@
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
-No diretório do projeto, você pode executar: <b>yarn start-react</b><br/>
+No diretório do projeto, execute via shell: <b>yarn start-react</b><br/>
 Será preciso executar também, logo em seguida: <b>yarn start-server</b><br/>
+Obs.: Serão dois servidores em execução, assim sendo, os dois comandos deverão estar em execução simultaneamente. 
 O aplicativo será executado no modo de desenvolvimento.<br/>
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.<br/>
+O projeto poderá ser visualizado no navegador pelo endereço: [http://localhost:3000](http://localhost:3000).<br/>
 
 O projeto Minhas Séries consiste em uma lista de controle de séries.<br/>
 A barra superior de opções mostra três opções:<br/>
