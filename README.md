@@ -1,9 +1,15 @@
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
-No diretório do projeto, você pode executar: yarn start<br/>
+No diretório do projeto, você pode executar: yarn start-react<br/>
+Será preciso executar também, logo em seguida: yarn start-server<br/>
 O aplicativo será executado no modo de desenvolvimento. 
-
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
+
+O projeto Minhas Séries consiste em ter um controle de séries, mostrando uma lista de séries cadastradas. 
+A barra superior de opções mostra três opções:
+Minhas Séries - Exibe a página inicial;
+Séries - Exibe a lista de séries, com botões para cadastrar, remover e ver as informações detalhadas das séries.
+Gêneros: Exibe a lista de gêneros cadatrados, com botões para adicionar, remover e editar gêneros.
 
 ### yarn build
 
