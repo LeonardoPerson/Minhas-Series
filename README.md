@@ -1,3 +1,4 @@
+As principais tecnologias que compõem essa aplicação web são: ReactJs e NodeJs. Algumas estilizações foram feitas com Bootstrap e outras com arquivo de CSS próprio. 
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
 No diretório do projeto, execute via shell: <b>yarn start-react</b><br/>
@@ -11,6 +12,8 @@ A barra superior de opções mostra três opções:<br/>
 Minhas Séries - Exibe a página inicial;<br/>
 Séries - Exibe a lista de séries, com botões para cadastrar, remover e ver as informações detalhadas das séries;<br/>
 Gêneros: Exibe a lista de gêneros cadatrados, com botões para adicionar, remover e editar gêneros.<br/>
+
+
 
 
 
