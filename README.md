@@ -2,7 +2,7 @@ As principais tecnologias que compõem essa aplicação web são: ReactJs e Node
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
 No diretório do projeto, execute via shell: <b>yarn start-react</b><br/>
-Será preciso executar também, logo em seguida: <b>yarn start-server</b><br/>
+Será preciso executar também, logo em seguida, para o carregamento da base de dados: <b>yarn start-server</b><br/>
 Obs.: Serão dois servidores em execução, assim sendo, os dois comandos deverão estar em execução simultaneamente. 
 O aplicativo será executado no modo de desenvolvimento.<br/>
 O projeto poderá ser visualizado no navegador pelo endereço: [http://localhost:3000](http://localhost:3000).<br/>
