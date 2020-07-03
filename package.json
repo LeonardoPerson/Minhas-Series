@@ -17,7 +17,7 @@
     "reactstrap": "^8.4.1"
   },
   "scripts": {
-    
+    "start": "npm-run-all build start-server",
     "start-react": "react-scripts start",
     "start-server": "node ./node_modules/minhas-series-server",
     "build": "react-scripts build",
