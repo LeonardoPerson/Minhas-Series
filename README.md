@@ -9,11 +9,14 @@ O projeto poderá ser visualizado no navegador pelo endereço: [http://localhost
 
 O projeto Minhas Séries consiste em uma lista de controle de séries.<br/>
 A barra superior de opções (imagem abaixo) mostra três opções:<br/>
-Minhas Séries - Exibe a página inicial;<br/>
-Séries - Exibe a lista de séries, com botões para cadastrar, remover e ver as informações detalhadas das séries;<br/>
-Gêneros: Exibe a lista de gêneros cadatrados, com botões para adicionar, remover e editar gêneros.<br/>
+Minhas Séries - Exibe a página inicial;<br/><br/>
+<img src="/src/Image/home.png"><br/><br/>
+Séries - Exibe a lista de séries, com botões para cadastrar, remover e ver as informações detalhadas das séries;<br/><br/>
+<img src="/src/Image/series.png"><br/><br/>
+Gêneros: Exibe a lista de gêneros cadatrados, com botões para adicionar, remover e editar gêneros.<br/><br/>
+<img src="/src/Image/generos.png"><br/><br/>
 
-<img src="/src/Image/home.png">
+
 
 
 
