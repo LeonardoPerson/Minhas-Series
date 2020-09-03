@@ -19,7 +19,13 @@ body {
   }
 
   .btn {
-      padding: 5%;
+      
+      margin: 2%;    
+
+  }
+
+  .btn-warning{
+    width: 88px;
   }
 
 
